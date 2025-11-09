@@ -1,9 +1,9 @@
 {
   "name": "simplecountdown-theme-christmas",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Christmas theme for simple countdown",
   "dependencies": {
-    "simplecountdown": ">=2.0.0"
+    "simplecountdown": ">=3.1.0"
   },
   "devDependencies": {
     "uglifyjs": "latest"
